@@ -2,4 +2,5 @@
 length = 3
 width = 4
 area = length * width 
-print("the area of the rectangle with a length of 3 and a width of 4 is 12")
+# displaying the area of the rectangle
+print("The area of the rectangle is:", area)
