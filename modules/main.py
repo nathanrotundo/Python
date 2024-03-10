@@ -1,4 +1,4 @@
-import calculator 
+from math_operations import calculator
 result = calculator.add(5, 3)
 print("Addition result:", result)
 
